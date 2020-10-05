@@ -10,6 +10,9 @@ if (!isset($_GET['num'])) {
 		case '2':
 			$ans = '今日の運勢は大吉です';
 			break;
+		case '3':
+			$ans = '今日の運勢は中吉です';
+			break;
 	}
 }
 ?>
