@@ -16,7 +16,7 @@ if (empty($_GET['text'])) {
 <h1>git_study</h1>
 <?php echo $text; ?>
 <?php if (!empty($_GET['text'])): ?>
-<p><a href="divination.php?num=<?php echo rand(1, 2); ?>">今日の運勢</a></p>
+<p><a href="divination.php?num=<?php echo rand(1, 2, 3); ?>">今日の運勢</a></p>
 <?php endif; ?>
 </body>
 </html>
