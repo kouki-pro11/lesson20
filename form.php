@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<title>form</title>
+<title>lesson20 form</title>
 </head>
 <body>
 <h1>git study</h1>
