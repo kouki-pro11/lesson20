@@ -1,6 +1,6 @@
 <?php
 if (empty($_GET['text'])) {
-	$text = '入力されていません';
+	$text = '未入力です。再度入力してください。';
 } else {
 	$text = $_GET['text'];
 }
